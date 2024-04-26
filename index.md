@@ -17,57 +17,17 @@ title: How to Start A Blog in 2024
 
 <p>You'll also need the necessary software to create your blog. In this guide, I'll demonstrate how to build a blog using WordPress. I've chosen WordPress because it's widely used, highly customizable, and incredibly user-friendly.</p>
 
-<p>The web hosting service I suggest, and the one I'll demonstrate in this guide, is BlueHost. Personally, I use BlueHost, and I recommend it to new bloggers because:</p>
+<p>Regarding the web host, I will leave it up to your choice. There are many reputed brands. I am listing down some of their names. Please note that I am not promoting them. It's totally your choice which one you will select. There are online reviews of each one of them.</p>
 
 <ul>
-<li>They'll set you up with your own custom domain name at no extra cost, ensuring it's reserved just for you.</li>
-<li>If you're not happy with their service for any reason, they offer a 30-day money-back guarantee.</li>
-<li>They offer a free, automatic installation of the WordPress blogging software (which I will show you how to use in this guide).</li>
-<li>They offer reliable web hosting that has been recommended by WordPress since 2005 and they currently host over 2 million blogs and websites.</li>
-<li>They have helpful 24/7 customer service via phone or web chat.</li>
+<li>Bluehost</li>
+<li>Hostinger</li>
+<li>Godaddy</li>
+<li>Chep Domains</li>
+<li>Hostgator etc.</li>
 </ul>
 
-<p><strong><u>Disclosure: BlueHost compensates me when you purchase through this link, so my services are free of charge to you! In fact, if you have any trouble setting up a blog with this tutorial, just contact me and I will do it for you for free :)</u></strong></p>
-
-<p><strong>1. Click here to get the special $2.75 per month rate on BlueHost and then click "get started now".</strong></p>
-
-<p><img src="images/bluehost-275.jpg"></p>
-
-<p><strong>2. Select your plan. I recommend that beginning bloggers get the basic plan. Click “Select” to choose your plan.</strong></p>
-
-<p><img src="images/bluehost-plans1.jpg"></p>
-
-<p><strong>3. Type in your domain name in the left box and then click “next” to start the registration process.</strong></p>
-
-<p>If you've already got a domain name and you want to use it for your blog, just type it into the box on the right and hit "next." But remember, only use this box if you've already paid to register a domain.</p>
-
-<p><img src="images/choose-domain.jpg"></p>
-
-<p><strong>4. Fill out your billing details on the registration page.</strong></p>
-
-<p><img src="images/bluehost-account.jpg"></p>
-
-<p><strong>5. You will also need to choose your hosting package and options.</strong></p>
-
-<p>Every BlueHost account plan has everything you need to get your blog up and running, including a free custom domain name, easy WordPress installation, web hosting, and custom email addresses (e.g. yourname@yourdomain.com).</p>
-
-<p>I uncheck the boxes next to the package extras except for “Domain Privacy & Protection”. Although it's not absolutely required, domain privacy ensures that your personal details like your name, address, phone number, and email remain hidden from the public database of registered domain owners.</p>
-
-<p><img src="images/bluehost-package-privacy.jpg"></p>
-
-<p><strong>6. You will then need to create your BlueHost account and password</strong></p>.
-
-<p><img src="images/create-account.jpg"></p>
-
-<p>After completing that, you'll be directed to an installation helper. Since you're following this tutorial, you can simply click "Skip this step" on the next few pages to go straight to the dashboard.</p>
-
-<p><img src="images/skip-step.jpg"></p>
-
-<p><strong>7. Install the WordPress blogging platform.</strong></p>
-
-<p>Now the system will install WordPress automatically. After the installation is finished, simply click the "Log into WordPress" button located at the top right corner. This will log you into the administrator area of your blog.</p>
-
-<p><img src="images/bluehost-dashboard.jpg"></p>
+After you purchase your domain and hosting it's time to install WordPress. Most hosting companies comes with easy WordPress instalation these days. 
 
 <p>Having trouble installing your blog? Get help here.</p>
 
