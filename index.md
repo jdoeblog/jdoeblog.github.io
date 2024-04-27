@@ -1,6 +1,8 @@
 ---
 layout: default
 title: How to start a wordpress website
+description: How to start a wordpress website? How to create a website for business? How to start an online shop using woocommerce? Get their answers in this article.
+author: Sourav Sen
 ---
 
 <h1>How to start a wordpress website</h1>
@@ -12,6 +14,7 @@ title: How to start a wordpress website
 <li>How to start a wordpress website</li>
 <li>How to create a website for business</li>
 <li>How to start an online shop</li>
+</ul>
 
 <p>Then wait a minute. I can help. In this guide I will tell you how you can have your own blog or a website or an e-commerce store.</p>
 
@@ -85,30 +88,30 @@ title: How to start a wordpress website
 
 <button class="accordion">I need a custom WordPress theme. Can you help?</button>
 <span class="panel">
-Sure. Just contact me using my contact page with your requirements and we can discuss.
+<p>Sure. Just contact me using my contact page with your requirements and we can discuss.</p>
 </span>
 
 <button class="accordion">Do you write website content?</button>
 <span class="panel">
-I don't write complete content of a website since I am mainly a WordPress designer and developer and not a content writer. But if you wish, I can write enough content to make your business website look like a MVP, minimum viable product.
+<p>I don't write complete content of a website since I am mainly a WordPress designer and developer and not a content writer. But if you wish, I can write enough content to make your business website look like a MVP, minimum viable product.</p>
 </span>
 
-<button class="accordion">I alredy have a wordpress website and need some maintenance work. Can you help?</button>
+<button class="accordion">I already have a wordpress website and need some maintenance work. Can you help?</button>
 <span class="panel">
-Sure. Just contact me using my contact page with your requirements and we can discuss.
+<p>Sure. Just contact me using my contact page with your requirements and we can discuss.</p>
 </span>
 
 <button class="accordion">What about SEO? Can you do SEO of my websites?</button>
 <span class="panel">
-I have strong knowledge about keyword research, on-page SEO, technical SEO and to some extent about off-page SEO. So yes, I can do the keyword research, on-page and technical SEO of your website. Off pge SEO is a lifelong activity. I don't do off page SEO. Please check out my blog posts as there are lots of do's and dont's in off page SEO aka link building.
+<p>I have strong knowledge about keyword research, on-page SEO, technical SEO and to some extent about off-page SEO. So yes, I can do the keyword research, on-page and technical SEO of your website. Off pge SEO is a lifelong activity. I don't do off page SEO. Please check out my blog posts as there are lots of do's and dont's in off page SEO aka link building.</p>
 </span>
 
 <button class="accordion">My WordPress websites got hacked, can you help?</button>
 <span class="panel">
-Sure, I can help! Please get in touch with me through my contact page. I can try to re-instate your WordPress website if you or your hosting company has kept backups. Else, I will create a new website and make sure that all WordPress security precautions are taken. I will try to find lost images and contents using wayback machine. 
+<p>Sure, I can help! Please get in touch with me through my contact page. I can try to re-instate your WordPress website if you or your hosting company has kept backups. Else, I will create a new website and make sure that all WordPress security precautions are taken. I will try to find lost images and contents using wayback machine.</p> 
 </span> 
 
 <button class="accordion">You are from a different time zone. Will it be a problem?</button>
 <span class="panel">
-Not at all. We can contact through email and Skype. 
+<p>Not at all. We can contact through email and Skype.</p>
 </span>
