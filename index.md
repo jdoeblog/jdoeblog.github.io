@@ -81,58 +81,34 @@ title: How to start a wordpress website
 
 <p>Don't hesitate to contact me if you need any kind of free or premium help regarding your WordPress website.</p>
 
+<h2>Some FAQ</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<button class="accordion">Where is the best place to create a blog?</button>
+<button class="accordion">I need a custom WordPress theme. Can you help?</button>
 <span class="panel">
-If the domain name you want for your blog is already taken, you have several options to consider:
+Sure. Just contact me using my contact page with your requirements and we can discuss.
+</span>
 
-1. **Modify the Domain Name**: Try adding a relevant word, hyphens, or numbers to the domain name to create a variation that is still recognizable and relevant to your blog. For example, if "exampleblog.com" is taken, you could try "theexampleblog.com" or "example-blog.com".
+<button class="accordion">Do you write website content?</button>
+<span class="panel">
+I don't write complete content of a website since I am mainly a WordPress designer and developer and not a content writer. But if you wish, I can write enough content to make your business website look like a MVP, minimum viable product.
+</span>
 
-2. **Use a Different Domain Extension**: Consider using a different top-level domain (TLD) extension if the .com version of your desired domain is taken. There are many TLD options available, including .net, .org, .co, .io, and country-specific extensions like .uk or .au.
+<button class="accordion">I alredy have a wordpress website and need some maintenance work. Can you help?</button>
+<span class="panel">
+Sure. Just contact me using my contact page with your requirements and we can discuss.
+</span>
 
-3. **Contact the Current Owner**: In some cases, the current owner of the domain may be willing to sell it to you. You can use WHOIS lookup tools to find contact information for the domain owner and inquire about purchasing the domain. Be prepared for the possibility of negotiating a price for the domain.
+<button class="accordion">What about SEO? Can you do SEO of my websites?</button>
+<span class="panel">
+I have strong knowledge about keyword research, on-page SEO, technical SEO and to some extent about off-page SEO. So yes, I can do the keyword research, on-page and technical SEO of your website. Off pge SEO is a lifelong activity. I don't do off page SEO. Please check out my blog posts as there are lots of do's and dont's in off page SEO aka link building.
+</span>
 
-4. **Consider a Domain Marketplace**: Explore domain marketplaces where individuals buy and sell domain names, such as Sedo, Flippa, or GoDaddy Auctions. You may find the domain you want available for purchase from a third party.
+<button class="accordion">My WordPress websites got hacked, can you help?</button>
+<span class="panel">
+Sure, I can help! Please get in touch with me through my contact page. I can try to re-instate your WordPress website if you or your hosting company has kept backups. Else, I will create a new website and make sure that all WordPress security precautions are taken. I will try to find lost images and contents using wayback machine. 
+</span> 
 
-5. **Keep Monitoring**: If the domain you want is not currently being actively used, you can monitor its status and be ready to register it if it becomes available for purchase in the future. Use domain monitoring services or set up alerts to notify you when the domain's registration expires.
-
-6. **Choose a Different Name**: If none of the above options are feasible or desirable, you may need to reconsider your domain name altogether and choose a new name for your blog. Take the opportunity to brainstorm new ideas and find a domain name that is available and suitable for your blog.
-
-Remember to choose a domain name that is easy to remember, spell, and type, and reflects the content and identity of your blog effectively. Once you have selected a domain name, register it as soon as possible to secure it for your blog.
+<button class="accordion">You are from a different time zone. Will it be a problem?</button>
+<span class="panel">
+Not at all. We can contact through email and Skype. 
 </span>
