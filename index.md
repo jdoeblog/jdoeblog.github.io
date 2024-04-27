@@ -12,7 +12,7 @@ author: Sourav Sen
 
 <ul>
 <li>How to start a wordpress website</li>
-<li>How to create a website for business</li>
+<li>How to build or create a website for business</li>
 <li>How to start an online shop</li>
 </ul>
 
