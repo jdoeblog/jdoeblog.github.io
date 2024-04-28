@@ -13,3 +13,7 @@ permalink: /blog/
 <h3><a href="{{site.url}}/how-to-create-standard-operating-procedures-sops">How To Create Standard Operating Procedures (SOP’s)</a></h3>
 <h3><a href="{{site.url}}/how-to-develop-a-content-strategy">How To Develop A Content Strategy</a></h3>
 <h3><a href="{{site.url}}/the-evolution-of-content-marketing">The Evolution of Content Marketing</a></h3>
+
+<h3><a href="{{site.url}}/dos-and-donts-of-link-building">Do's and Don'ts of link building</a></h3>
+<h3><a href="{{site.url}}/how-to-manage-a-team-of-writers">How To Manage A Team Of Writers</a></h3>
+<h3><a href="{{site.url}}/content-repurposing">Content Repurposing</a></h3>
