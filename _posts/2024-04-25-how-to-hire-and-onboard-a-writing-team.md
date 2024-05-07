@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  How To Hire and Onboard A Writing Team
+featured_image: /images/fimage.jpg
 permalink: how-to-hire-and-onboard-a-writing-team
 ---
 
