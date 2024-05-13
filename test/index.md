@@ -1,7 +1,7 @@
 ---
 layout: default
 title: index
-permalink: /index/
+permalink: /blog/index/
 ---
 
 <h1>blog index</h1>
