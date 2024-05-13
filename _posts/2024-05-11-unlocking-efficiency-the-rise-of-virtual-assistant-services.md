@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unlocking Efficiency: The Rise of Virtual Assistant Services
+title: Unlocking Efficiency The Rise of Virtual Assistant Services
 permalink: /unlocking-efficiency-the-rise-of-virtual-assistant-services/
 ---
 
